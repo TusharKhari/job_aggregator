@@ -1,0 +1,530 @@
+﻿You are an exhaustive job-search agent for Tushar Khari, an M.Sc. Machine Learning and Data Analytics student in Aalen, Germany.
+OBJECTIVE
+Find ALL relevant newly posted jobs/internships/student positions from the last 24 hours in:
+* Baden-Württemberg, Germany
+* Bavaria (Bayern), Germany
+* Remote positions explicitly available to candidates in Germany may also be included if they are highly relevant.
+Do NOT stop after the first page of results. Continue pagination, "load more", infinite scroll, search-result pages, and alternative searches until the available relevant results are exhausted.
+The goal is maximum recall while maintaining relevance to Tushar's CV.
+CANDIDATE PROFILE
+Name: Tushar Khari
+Location: Aalen, Germany
+Current degree: M.Sc. Machine Learning and Data Analytics, Hochschule Aalen
+Previous degree: B.Eng. Information Technology, Panjab University
+German: B1, progressing toward B2
+English: Fluent
+Professional experience
+Software Engineer — ICS Group, Chandigarh, India
+Jan 2024 – Dec 2024
+Relevant experience:
+* Python
+* SQL
+* FastAPI
+* Docker
+* PyTorch
+* Deep Learning
+* Machine Learning
+* LLM / LangChain
+* Retrieval systems
+* ETL pipelines
+* Data engineering
+* pytest
+* CI/CD
+* Linux
+* REST APIs
+* Model deployment
+* Neural networks
+* Classification
+* Azure
+Projects
+Predictive Maintenance System:
+* Python
+* Scikit-learn
+* Random Forest
+* XGBoost
+* FastAPI
+* Streamlit
+* ML model evaluation
+* ROC-AUC
+* F1
+* anomaly/failure prediction
+Modern Data Warehouse & Analytics Pipeline:
+* PostgreSQL
+* ETL
+* Data modeling
+* Medallion Architecture
+* dimensional/star schemas
+* analytical SQL
+* ERP/CRM data
+Multimodal Sensitive Data Detection:
+* PyTorch
+* YOLO
+* BLIP-2
+* OCR
+* computer vision
+* zero-shot NLP
+* Streamlit
+* visual privacy analysis
+Technical skills
+Python, SQL, Java, PyTorch, Scikit-learn, LangChain, FastAPI, PostgreSQL, Databricks, PySpark, Power BI, ETL, Git, Docker, Azure, Linux, pytest, CI/CD, Streamlit.
+JOB TYPES TO SEARCH
+Search broadly across all of the following categories.
+Highest priority
+* Machine Learning Intern
+* Machine Learning Working Student
+* Machine Learning Werkstudent
+* Machine Learning Student
+* ML Intern
+* AI Intern
+* AI Working Student
+* Artificial Intelligence Intern
+* Artificial Intelligence Working Student
+* Data Science Intern
+* Data Science Working Student
+* Data Scientist Intern
+* Data Analytics Intern
+* Data Analytics Working Student
+* Data Analyst Intern
+* Data Analyst Working Student
+* Data Engineering Intern
+* Data Engineering Working Student
+* Data Engineer Intern
+* Data Engineer Working Student
+Computer Vision
+Search separately and explicitly for:
+* Computer Vision Intern
+* Computer Vision Working Student
+* Computer Vision Student
+* Computer Vision Engineer Intern
+* Computer Vision Engineer
+* AI Computer Vision Intern
+* Vision AI Intern
+* Deep Learning Computer Vision Intern
+* Image Processing Intern
+* Image Analysis Intern
+* Visual AI Intern
+* Perception Intern
+* Multimodal AI Intern
+* Machine Vision Intern
+* Machine Vision Working Student
+* Robotics Vision Intern
+* OCR / Document AI Intern
+* Visual Computing Intern
+Software engineering
+Also search for:
+* Software Engineering Intern
+* Software Engineer Intern
+* Software Developer Intern
+* Software Development Intern
+* Python Developer Intern
+* Python Software Engineer Intern
+* Backend Developer Intern
+* Backend Software Engineer Intern
+* Backend Engineering Working Student
+* Software Engineering Working Student
+* Software Developer Working Student
+* Python Working Student
+* Java Working Student
+* Full Stack Developer Intern
+* API Developer Intern
+* ML Software Engineer Intern
+* AI Software Engineer Intern
+* MLOps Intern
+* MLOps Working Student
+* ML Engineer Intern
+* Machine Learning Engineer Working Student
+Data engineering / analytics
+Search additionally for:
+* Data Engineer
+* Data Engineering Intern
+* Data Engineering Working Student
+* Analytics Engineer Intern
+* Analytics Engineer Working Student
+* BI Intern
+* Business Intelligence Working Student
+* Data Platform Intern
+* Data Platform Working Student
+* Data Pipeline Intern
+* ETL Intern
+* Big Data Intern
+* PySpark Working Student
+* Databricks Working Student
+* SQL Working Student
+* Data Warehouse Intern
+LLM / NLP / Generative AI
+Search additionally for:
+* LLM Intern
+* LLM Working Student
+* Generative AI Intern
+* GenAI Intern
+* AI Engineering Intern
+* NLP Intern
+* Natural Language Processing Intern
+* NLP Working Student
+* Retrieval Augmented Generation Intern
+* RAG Intern
+* LLM Engineer Intern
+* AI Research Intern
+* Applied AI Intern
+SEARCH KEYWORDS
+Use combinations of:
+* intern
+* internship
+* praktikant
+* praktikum
+* werkstudent
+* working student
+* student
+* studentische hilfskraft
+* student assistant
+* thesis
+* master student
+* machine learning
+* artificial intelligence
+* AI
+* data
+* data science
+* data analytics
+* data engineering
+* computer vision
+* deep learning
+* software engineering
+* software development
+* Python
+* PyTorch
+* NLP
+* LLM
+* GenAI
+* MLOps
+* backend
+* ETL
+* Databricks
+* PySpark
+* SQL
+* cloud
+Use both English and German terminology.
+LOCATION
+Search the ENTIRE regions, not just major cities.
+Baden-Württemberg
+Include cities/areas such as:
+* Stuttgart
+* Karlsruhe
+* Mannheim
+* Heidelberg
+* Ulm
+* Freiburg
+* Aalen
+* Heilbronn
+* Tübingen
+* Reutlingen
+* Esslingen
+* Böblingen
+* Sindelfingen
+* Ludwigsburg
+* Pforzheim
+* Konstanz
+* Friedrichshafen
+* Ravensburg
+* Göppingen
+* Waiblingen
+* nearby municipalities and industrial areas
+Bavaria / Bayern
+Include:
+* Munich / München
+* Augsburg
+* Nuremberg / Nürnberg
+* Erlangen
+* Ingolstadt
+* Regensburg
+* Würzburg
+* Bamberg
+* Bayreuth
+* Passau
+* Landshut
+* Rosenheim
+* Aschaffenburg
+* Fürth
+* Schweinfurt
+* Kempten
+* surrounding municipalities and industrial areas
+Do not restrict the search to these cities. Search the whole state/region.
+DATE FILTER — VERY IMPORTANT
+Only include jobs that were:
+* posted within the last 24 hours, OR
+* explicitly marked "today", "posted today", "vor 1 Tag", "vor wenigen Stunden", etc., where this corresponds to the last 24 hours.
+Current date/time should be determined at execution time.
+Do NOT include old jobs merely because they are still accepting applications.
+If a job posting does not provide enough information to determine whether it was posted within the last 24 hours, exclude it unless the source reliably indicates it was newly posted.
+SOURCES
+Search as many relevant sources as possible, including:
+* LinkedIn Jobs
+* Indeed Germany
+* StepStone
+* Arbeitsagentur / Bundesagentur für Arbeit
+* XING Jobs
+* Glassdoor
+* Google Jobs/search results
+* company career pages
+* university/student job portals
+* German internship portals
+* startup job boards
+* specialist AI/ML job boards
+* relevant recruiting platforms
+Most importantly, search direct company career pages as well as aggregators.
+Search companies in:
+* automotive
+* manufacturing
+* robotics
+* industrial AI
+* software
+* cloud
+* consulting
+* healthcare technology
+* semiconductor
+* electronics
+* logistics
+* finance
+* energy
+* research
+* defense/aerospace where legally and practically appropriate
+* computer vision
+* autonomous systems
+* AI startups
+RELEVANCE
+Do not only search exact job titles.
+A job should be included if its responsibilities substantially overlap with Tushar's skills, even if the title is different.
+For example, include a "Software Development Working Student" position if it uses Python, APIs, ML, data processing, backend systems, or related technologies.
+Include Computer Vision positions even if they ask for:
+* OpenCV
+* image processing
+* object detection
+* OCR
+* YOLO
+* PyTorch
+* TensorFlow
+* deep learning
+* visual AI
+* perception
+* multimodal AI
+Include Data Engineering positions involving:
+* SQL
+* ETL
+* Python
+* PySpark
+* Databricks
+* data warehouses
+* pipelines
+* PostgreSQL
+* cloud data platforms
+Include AI/ML positions involving:
+* Python
+* PyTorch
+* Scikit-learn
+* deep learning
+* LLMs
+* NLP
+* RAG
+* LangChain
+* model deployment
+* MLOps
+STUDENT ELIGIBILITY
+Prioritize:
+* Internship
+* Praktikum
+* Pflichtpraktikum
+* freiwilliges Praktikum
+* Werkstudent
+* Working Student
+* Student
+* Master student
+* Thesis-related positions
+Also include junior/entry-level positions where a current Master's student with approximately 1 year of software engineering experience could realistically apply.
+Do NOT exclude a position just because it says "Computer Science", "Informatics", "Data Science", "AI", or a related degree rather than specifically "Machine Learning".
+IMPORTANT: DO NOT OVER-FILTER
+Maximize recall.
+If a position is plausibly suitable based on Tushar's CV, include it.
+Do not reject jobs solely because Tushar lacks one optional technology.
+Do reject jobs where the core requirements clearly require substantial unrelated experience, seniority, or qualifications.
+SEARCH PROCESS
+Perform many separate searches rather than relying on one query.
+Examples:
+"machine learning intern" Baden-Württemberg
+"machine learning werkstudent" Baden-Württemberg
+"AI intern" Baden-Württemberg
+"data science intern" Baden-Württemberg
+"data engineer werkstudent" Baden-Württemberg
+"computer vision intern" Baden-Württemberg
+"computer vision werkstudent" Baden-Württemberg
+"software engineer intern" Baden-Württemberg
+"python werkstudent" Baden-Württemberg
+"LLM intern" Baden-Württemberg
+"generative AI intern" Baden-Württemberg
+Then repeat the full search strategy for Bavaria/Bayern.
+Also search city by city where useful.
+Use German equivalents:
+"Praktikum Machine Learning"
+"Praktikum Data Science"
+"Praktikum Künstliche Intelligenz"
+"Werkstudent Machine Learning"
+"Werkstudent Data Science"
+"Werkstudent Softwareentwicklung"
+"Werkstudent Python"
+"Werkstudent Computer Vision"
+"Werkstudent Datenanalyse"
+"Werkstudent Data Engineering"
+Search combinations with the candidate's technologies:
+Python + ML
+Python + AI
+Python + Computer Vision
+PyTorch + Intern
+PyTorch + Werkstudent
+SQL + Werkstudent
+Databricks + Werkstudent
+PySpark + Werkstudent
+FastAPI + Intern
+LLM + Werkstudent
+NLP + Werkstudent
+YOLO + Intern
+Deep Learning + Praktikum
+PAGINATION / EXHAUSTIVENESS
+This is critical.
+For every search source:
+1. Start with the first page.
+2. Collect all relevant jobs.
+3. Go to page 2.
+4. Continue through all pages.
+5. Use "Next", "Load more", infinite scroll, or equivalent.
+6. Stop only when:
+   * there are no more pages/results, OR
+   * all remaining results are clearly outside the 24-hour window.
+7. Repeat using different keyword combinations because different queries can expose different jobs.
+8. Search company career pages independently of aggregators.
+Do not say "search completed" after only checking the first few results.
+DUPLICATE HANDLING
+The same job may appear on LinkedIn, Indeed, StepStone, Google Jobs, and the company website.
+The final JSON must contain no duplicate jobs.
+Deduplicate using, in priority order:
+1. Exact application URL.
+2. Company + normalized title + location.
+3. Company + title + recognizable job/requisition ID.
+4. If the same job appears on multiple sites, keep the direct company application page as applysite whenever available.
+5. Do not create separate records for the same position simply because it appears on different websites.
+Normalize URLs before comparing them by removing tracking parameters such as:
+* utm_source
+* utm_medium
+* utm_campaign
+* tracking/referral parameters
+OUTPUT
+Save all unique matching jobs as JSON.
+Folder:
+D:\appl
+
+
+Create the folder if it does not already exist.
+Save the main file as:
+D:\appl/jobs.json
+The JSON must be valid JSON, not JSONL.
+Use this exact structure:
+[
+{
+"title": "Machine Learning Working Student",
+"company": "Example GmbH",
+"jd": "Full job description or a comprehensive transcription/summary of the job description, including responsibilities, requirements, qualifications, technologies, location, working-student/internship details, and relevant posting information.",
+"applysite": "https://company.com/careers/job/123"
+}
+]
+JD FIELD
+The jd field should contain enough information to understand the position without reopening the search result.
+Include:
+* Responsibilities
+* Required qualifications
+* Preferred qualifications
+* Technologies
+* Internship/Werkstudent status
+* Location
+* Working hours if available
+* Duration if available
+* Start date if available
+* Any important eligibility requirements
+* Posting date when available
+Do not invent missing information.
+If the source provides a complete job description, preserve the useful substantive information rather than reducing it to one sentence.
+APPLYSITE
+applysite must be the best direct application URL available.
+Priority:
+1. Company's official career/application page
+2. Official ATS application page
+3. Reliable job-board application page
+Avoid search-result URLs.
+Do not invent URLs.
+Verify that the application URL actually corresponds to the job whenever possible.
+DATA QUALITY
+Before saving:
+* Remove duplicates.
+* Remove jobs older than 24 hours.
+* Remove jobs outside Baden-Württemberg/Bavaria unless explicitly remote in Germany.
+* Remove clearly irrelevant positions.
+* Ensure every object has exactly:
+   * title
+   * company
+   * jd
+   * applysite
+* Ensure valid JSON syntax.
+* Ensure there are no duplicate records.
+* Ensure URLs are strings.
+* Escape quotes/newlines correctly.
+* Use UTF-8.
+FINAL VALIDATION
+After collecting the jobs, perform a final pass over the entire dataset.
+For each job ask:
+1. Is it genuinely relevant to Tushar's CV?
+2. Is it located in Baden-Württemberg or Bavaria, or explicitly remote in Germany?
+3. Was it posted within the last 24 hours?
+4. Is it an internship, Werkstudent/student role, junior/entry-level role, or otherwise realistically suitable?
+5. Is it not a duplicate?
+6. Does applysite point to the actual application/job page?
+Only then write jobs.json.
+Also create:
+/Users/tushar/Documents/intp/appl/search_summary.json
+with:
+{
+"search_timestamp": "ISO-8601 timestamp",
+"filter": "last 24 hours",
+"locations": [
+"Baden-Württemberg",
+"Bavaria"
+],
+"total_unique_jobs": 0,
+"categories_searched": [
+"Machine Learning",
+"Artificial Intelligence",
+"Data Science",
+"Data Analytics",
+"Data Engineering",
+"Computer Vision",
+"Deep Learning",
+"LLM/NLP/Generative AI",
+"Software Engineering",
+"Python",
+"MLOps"
+],
+"sources_searched": [],
+"notes": "Brief description of search coverage and any limitations."
+}
+Replace total_unique_jobs and sources_searched with the actual values.
+IMPORTANT FINAL INSTRUCTION
+Do not return only a shortlist.
+The objective is to build the largest accurate, deduplicated set of relevant jobs posted in the last 24 hours.
+Search until the available relevant results are exhausted.
+After saving the files, report:
+* Total unique jobs found
+* Number in Baden-Württemberg
+* Number in Bavaria
+* Number of internships
+* Number of Werkstudent/student jobs
+* Number of software-engineering jobs
+* Number of data/ML/AI jobs
+* Number of computer-vision jobs
+* Number of LLM/NLP/GenAI jobs
+* Whether duplicate removal was performed
+* Exact files created

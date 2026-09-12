@@ -1,0 +1,22 @@
+{
+  "search_timestamp": "2026-09-12T22:10:49.319215+00:00",
+  "filter": "last 24 hours",
+  "locations": [
+    "Bayern",
+    "Baden-Württemberg"
+  ],
+  "total_unique_jobs": 91,
+  "categories_searched": [
+    "Werkstudent Machine Learning",
+    "Machine Learning Intern",
+    "ML Intern",
+    "Machine Learning Working Student",
+    "Praktikum Machine Learning"
+  ],
+  "sources_searched": [
+    "indeed",
+    "xing",
+    "stepstone"
+  ],
+  "notes": "Exhaustive search filtered strictly to last 24 hours."
+}

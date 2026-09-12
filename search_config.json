@@ -1,0 +1,327 @@
+{
+  "profile": {
+    "name": "Tushar Khari",
+    "location": "Aalen, Germany",
+    "degree": "M.Sc. Machine Learning and Data Analytics, Hochschule Aalen",
+    "languages": {
+      "german": "B1 (progressing toward B2)",
+      "english": "Fluent"
+    },
+    "core_skills": [
+      "Python",
+      "PyTorch",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "LLM",
+      "LangChain",
+      "RAG",
+      "FastAPI",
+      "SQL",
+      "PostgreSQL",
+      "Data Engineering",
+      "ETL",
+      "Databricks",
+      "PySpark",
+      "Docker",
+      "Azure",
+      "Linux",
+      "pytest",
+      "CI/CD"
+    ]
+  },
+  "search_settings": {
+    "date_filter": "last_24_hours",
+    "target_contract_types": [
+      "Internship",
+      "Praktikum",
+      "Pflichtpraktikum",
+      "Freiwilliges Praktikum",
+      "Working Student",
+      "Werkstudent",
+      "Master Thesis",
+      "Junior",
+      "Entry Level"
+    ],
+    "target_sources": [
+      "indeed",
+      "xing",
+      "linkedin",
+      "stepstone",
+      "arbeitsagentur",
+      "company_career_pages"
+    ]
+  },
+  "locations": {
+    "regions_and_states": [
+      "Baden-Württemberg",
+      "Bavaria",
+      "Bayern",
+      "Remote Germany"
+    ],
+    "baden_wuerttemberg_cities": [
+      "Aalen",
+      "Stuttgart",
+      "Karlsruhe",
+      "Mannheim",
+      "Heidelberg",
+      "Ulm",
+      "Freiburg",
+      "Heilbronn",
+      "Tübingen",
+      "Reutlingen",
+      "Esslingen",
+      "Böblingen",
+      "Sindelfingen",
+      "Ludwigsburg",
+      "Pforzheim",
+      "Konstanz",
+      "Friedrichshafen",
+      "Ravensburg",
+      "Göppingen",
+      "Waiblingen"
+    ],
+    "bavaria_cities": [
+      "München",
+      "Munich",
+      "Nürnberg",
+      "Nuremberg",
+      "Augsburg",
+      "Erlangen",
+      "Ingolstadt",
+      "Regensburg",
+      "Würzburg",
+      "Bamberg",
+      "Bayreuth",
+      "Passau",
+      "Landshut",
+      "Rosenheim",
+      "Aschaffenburg",
+      "Fürth",
+      "Schweinfurt",
+      "Kempten"
+    ],
+    "remote": [
+      "Remote",
+      "Homeoffice",
+      "Deutschlandweit"
+    ]
+  },
+  "keywords": {
+    "role_types": {
+      "english": [
+        "intern",
+        "internship",
+        "working student",
+        "student",
+        "student assistant",
+        "thesis",
+        "master thesis",
+        "junior",
+        "graduate"
+      ],
+      "german": [
+        "praktikant",
+        "praktikum",
+        "pflichtpraktikum",
+        "freiwilliges praktikum",
+        "werkstudent",
+        "werkstudentin",
+        "studentische hilfskraft",
+        "abschlussarbeit",
+        "masterarbeit",
+        "einsteiger"
+      ]
+    },
+    "categories": {
+      "machine_learning_ai": {
+        "en": [
+          "Machine Learning",
+          "ML",
+          "Artificial Intelligence",
+          "AI",
+          "Deep Learning",
+          "Applied AI",
+          "AI Research"
+        ],
+        "de": [
+          "Maschinelles Lernen",
+          "Künstliche Intelligenz",
+          "KI",
+          "Deep Learning"
+        ]
+      },
+      "computer_vision": {
+        "en": [
+          "Computer Vision",
+          "Vision AI",
+          "Image Processing",
+          "Image Analysis",
+          "Visual AI",
+          "Perception",
+          "Multimodal AI",
+          "Machine Vision",
+          "Robotics Vision",
+          "OCR",
+          "Document AI",
+          "Visual Computing"
+        ],
+        "de": [
+          "Computer Vision",
+          "Bildverarbeitung",
+          "Mustererkennung"
+        ]
+      },
+      "data_science_analytics": {
+        "en": [
+          "Data Science",
+          "Data Scientist",
+          "Data Analytics",
+          "Data Analyst",
+          "Analytics Engineer",
+          "Business Intelligence",
+          "BI"
+        ],
+        "de": [
+          "Data Science",
+          "Datenanalyse",
+          "Datenanalyst",
+          "Wirtschaftsinformatik"
+        ]
+      },
+      "data_engineering": {
+        "en": [
+          "Data Engineer",
+          "Data Engineering",
+          "Data Pipeline",
+          "Data Platform",
+          "ETL",
+          "Big Data",
+          "PySpark",
+          "Databricks",
+          "Data Warehouse"
+        ],
+        "de": [
+          "Data Engineering",
+          "Datenintegration",
+          "Datenbanken",
+          "Datenarchitektur"
+        ]
+      },
+      "llm_nlp_genai": {
+        "en": [
+          "LLM",
+          "Generative AI",
+          "GenAI",
+          "NLP",
+          "Natural Language Processing",
+          "RAG",
+          "Retrieval Augmented Generation",
+          "LangChain"
+        ],
+        "de": [
+          "Sprachverarbeitung",
+          "Generative KI",
+          "Textanalyse"
+        ]
+      },
+      "software_engineering": {
+        "en": [
+          "Software Engineer",
+          "Software Developer",
+          "Python Developer",
+          "Python Software Engineer",
+          "Backend Developer",
+          "MLOps",
+          "ML Software Engineer",
+          "AI Software Engineer"
+        ],
+        "de": [
+          "Softwareentwickler",
+          "Softwareentwicklung",
+          "Python Entwickler",
+          "Backend Entwickler"
+        ]
+      }
+    }
+  },
+  "search_queries": {
+    "high_priority_queries": [
+      "Machine Learning Intern",
+      "Machine Learning Working Student",
+      "Werkstudent Machine Learning",
+      "Praktikum Machine Learning",
+      "ML Intern",
+      "AI Intern",
+      "AI Working Student",
+      "Werkstudent Künstliche Intelligenz",
+      "Praktikum Künstliche Intelligenz",
+      "Data Science Intern",
+      "Data Science Working Student",
+      "Werkstudent Data Science",
+      "Praktikum Data Science",
+      "Data Analyst Intern",
+      "Data Analytics Working Student",
+      "Werkstudent Datenanalyse",
+      "Data Engineer Intern",
+      "Data Engineering Working Student",
+      "Werkstudent Data Engineering",
+      "Praktikum Data Engineering"
+    ],
+    "computer_vision_queries": [
+      "Computer Vision Intern",
+      "Computer Vision Working Student",
+      "Werkstudent Computer Vision",
+      "Praktikum Computer Vision",
+      "Computer Vision Engineer Intern",
+      "AI Computer Vision Intern",
+      "Vision AI Intern",
+      "Image Processing Intern",
+      "Perception Intern",
+      "Multimodal AI Intern",
+      "Machine Vision Intern",
+      "Machine Vision Working Student",
+      "Praktikum Bildverarbeitung",
+      "Werkstudent Bildverarbeitung"
+    ],
+    "llm_nlp_genai_queries": [
+      "LLM Intern",
+      "LLM Working Student",
+      "Generative AI Intern",
+      "GenAI Intern",
+      "NLP Intern",
+      "NLP Working Student",
+      "Werkstudent NLP",
+      "RAG Intern",
+      "Applied AI Intern",
+      "Werkstudent Generative AI"
+    ],
+    "software_and_data_queries": [
+      "Python Developer Intern",
+      "Python Working Student",
+      "Werkstudent Python",
+      "Praktikum Python",
+      "Backend Developer Intern",
+      "Backend Engineering Working Student",
+      "Werkstudent Backend",
+      "MLOps Intern",
+      "MLOps Working Student",
+      "PySpark Working Student",
+      "Databricks Working Student",
+      "SQL Working Student",
+      "Analytics Engineer Intern"
+    ],
+    "technology_combinations": [
+      "Python Machine Learning Intern",
+      "Python Werkstudent",
+      "PyTorch Intern",
+      "PyTorch Werkstudent",
+      "Computer Vision Python",
+      "FastAPI Python Intern",
+      "SQL Data Engineering Werkstudent",
+      "Databricks PySpark Werkstudent",
+      "LLM LangChain Intern",
+      "Deep Learning Praktikum"
+    ]
+  }
+}
