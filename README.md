@@ -1,5 +1,16 @@
 # job_aggregator
 
+## ⚡ One-Command Full Pipeline (Scrape & Sync to Google Sheets)
+
+Run everything in a single command (aggregates all 20 queries, uploads to Google Sheets tab `aggJ`, and saves logs):
+
+```bash
+./run_pipeline.sh
+```
+
+---
+
+## 🛠 Manual Run Options
 
 # 1. Run top 5 high-priority queries across Baden-Württemberg & Bayern (24h filter ON)
 python aggregator.py
